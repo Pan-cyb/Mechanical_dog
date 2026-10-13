@@ -1,0 +1,30 @@
+# Local work products and archived references
+.work/
+results/
+third_party/
+wsl_coco
+
+# PlatformIO build output
+mechanical_dog/.pio/
+
+# IDE and OS metadata
+.idea/
+.vscode/
+*.code-workspace
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary, logs, archives, and host build products
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+*.log
+*.zip
+*.7z
+*.rar
+*.o
+*.obj
+*.exe
